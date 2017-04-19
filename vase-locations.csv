@@ -1,28 +1,28 @@
-BeazleyNumber,MuseumID,shape,findspot,comments
+BeazleyNumber,MuseumID,shape,findspot,comments,Pleaiades ID
 31,2671,Amphora C,none,
 32,2026,Amphora C,none, 
 33,416,Amphora C,none,
-34,T603,Panathenaic Amphora,Spina,
+34,T603,Panathenaic Amphora,Spina,https://pleiades.stoa.org/places/393498
 35,57.263,Panathenaic Amphora,none,
 36,1530,Neck Amphora,none, 
 37,48.58,Neck Amphora,none,
 38,none,Neck Amphora,none,
 39,none,Pelekai,none,
 40,none,Pelekai,none,
-41,50441,Pelekai,Etruria,
+41,50441,Pelekai,Etruria,https://pleiades.stoa.org/places/413122
 42,10794,Pelekai,none,
-43,11007,Pelekai,Etruria,
-44,161,Pelekai,Bologna,
-45,13-B-8,Pelekai,none,Shards
+43,11007,Pelekai,Etruria,https://pleiades.stoa.org/places/413122
+44,161,Pelekai,Bologna,https://pleiades.stoa.org/places/393421
+45,13-B-8,Pelekai,none,Shards,
 46,13-B-8 or 13-B-6,Pelekai,none,Shards-may belong to 45
 47,134,Pelekai,none,
 48,none,Pelekai,none,
-49,1129,Pelekai,Falerii,
+49,1129,Pelekai,Falerii,https://pleiades.stoa.org/places/413125
 50,2659,Pelekai,none,
-51,3634,Pelekai,Nola,
+51,3634,Pelekai,Nola,https://pleiades.stoa.org/places/432981
 52,G237,Pelekai,none,
 53,14B2,Pelekai,none,
-54,6.1952,Pelekai,Chiusi,
-55,T3805,Pelekai,Etruria,
+54,6.1952,Pelekai,Chiusi,https://pleiades.stoa.org/places/413096
+55,T3805,Pelekai,Etruria,https://pleiades.stoa.org/places/413122
 56,B4262,Pelekai,none,
-57,20967,Pelekai,Gela-Sicily,
+57,20967,Pelekai,Gela-Sicily,none,https://pleiades.stoa.org/places/462214
